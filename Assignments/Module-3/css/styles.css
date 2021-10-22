@@ -94,7 +94,7 @@ section {
 }
 
 #header-nav {
-  border: 0;
+  border: 1px solid black;
   font-family: Georgia,serif;
   background-color: #B3B3B3;
   color: black;
