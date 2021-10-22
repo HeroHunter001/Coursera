@@ -5,18 +5,16 @@
 }
 
 h1 {
-	font-family: Arial, sans-serif;
+	font-family: Georgia,serif;
 	color: black;
 }
 
 body {
 	background-image: url("background.jpg");
 	background-color: #FFFFFF;
-	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-
 }
 
 p {
@@ -34,8 +32,8 @@ p {
 }
 
 section {
-	border:	1px white;
-	background-color: transparent;
+	border:	1px black;
+	background-color: white;
 	width: 100%;
 	height: auto;
 	font-family: Arial, sans-serif;
@@ -52,7 +50,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: transparent;
+	background-color: white;
 	color: white;
 }
 
@@ -64,7 +62,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: transparent;
+	background-color: white;
 	color: white;
 }
 
@@ -75,7 +73,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: transparent;
+	background-color: white;
 	padding: 5px;
 	color: white;
 }
