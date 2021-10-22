@@ -10,7 +10,8 @@ h1 {
 }
 
 body {
-	background-image: url("https://images.pexels.com/photos/6341164/pexels-photo-6341164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-image: url("background.jpg");
+	background-color: #FFFFFF;
 
 }
 
