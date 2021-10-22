@@ -41,7 +41,6 @@ section {
 
 #chicken {
 	text-align: center;
-	width: 30%;
 	font-family: Georgia,serif;
 	font-weight: bold;
 	font-size: 125%;
@@ -53,7 +52,6 @@ section {
 
 #beef {
 	text-align: center;
-	width: 30%;
 	font-family: Georgia,serif;
 	font-weight: bold;
 	font-size: 125%;
@@ -65,7 +63,6 @@ section {
 
 #sushi {
 	text-align: center;
-	width: 30%;
 	font-family: Georgia,serif;
 	font-weight: bold;
 	font-size: 125%;
@@ -93,7 +90,7 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+  color: black;
 }
 
 #header-nav {
@@ -112,23 +109,23 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color: black;
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color: black;
   font-size: 1.5em;
 }
 
 #nav-list {
-  color: white;
+  color: black;
 }
 
 hr {
-  border-color: white;
+  border-color: black;
 }
 
 .item {
-  color: white;
+  color: black;
   font-size: 1.2em;
 }
