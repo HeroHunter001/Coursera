@@ -12,6 +12,10 @@ h1 {
 body {
 	background-image: url("background.jpg");
 	background-color: #FFFFFF;
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 
 }
 
@@ -30,11 +34,12 @@ p {
 }
 
 section {
-	background-color: #B3B3B3;
+	border:	1px white;
+	background-color: transparent;
 	width: 100%;
 	height: auto;
-	font-family: monospace;
-	color: black;
+	font-family: Arial, sans-serif;
+	color: white;
 	position: relative;
 	overflow: auto;
 }
@@ -47,7 +52,8 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #B3B3B3;
+	background-color: transparent;
+	color: white;
 }
 
 #beef {
@@ -58,7 +64,8 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #B3B3B3;
+	background-color: transparent;
+	color: white;
 }
 
 #sushi {
@@ -68,8 +75,9 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #B3B3B3;
+	background-color: transparent;
 	padding: 5px;
+	color: white;
 }
 
 #chicken-div {
@@ -90,14 +98,14 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: black;
+  color: white;
 }
 
 #header-nav {
-  border: 1px solid black;
+  border: 1px white;
   font-family: Georgia,serif;
-  background-color: #B3B3B3;
-  color: black;
+  background-color: #D67113;
+  color: white;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -109,23 +117,23 @@ section {
 }
 
 .nav-header {
-  background-color: black;
+  background-color: #D67113;
 }
 
 .nav-brand {
-  color: black;
+  color: white;
   font-size: 1.5em;
 }
 
 #nav-list {
-  color: black;
+  color: white;
 }
 
 hr {
-  border-color: black;
+  border-color: white;
 }
 
 .item {
-  color: black;
+  color: white;
   font-size: 1.2em;
 }
